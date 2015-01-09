@@ -1,0 +1,63 @@
+2014-12-30 17:43:30 INFO  SetUpWebDriver:29 - info - Starting new test case homepageHomeLinkDisplayed
+2014-12-30 17:43:30 INFO  PropertyManager:43 - key: browser value: firefox
+2014-12-30 17:43:32 INFO  PropertyManager:43 - key: devEnv value: false
+2014-12-30 17:43:32 INFO  PropertyManager:43 - key: stgEnv value: true
+2014-12-30 17:43:32 INFO  WebDriverManager:71 - 
+
+************************
+ Stagging Env Selected
+
+************************
+
+2014-12-30 17:43:32 INFO  PropertyManager:43 - key: stgEnvURI value: https://www.prosper.com
+2014-12-30 17:43:35 INFO  TestHomePage:38 - Test Case Name - Inside homepageHomeLinkDisplayed Test Case 
+2014-12-30 17:43:35 INFO  SetUpWebDriver:36 - info - End test test case method homepageHomeLinkDisplayed
+2014-12-30 17:43:35 INFO  SetUpWebDriver:29 - info - Starting new test case homepageLoanTypesLinkDisplayed
+2014-12-30 17:43:35 INFO  PropertyManager:43 - key: browser value: firefox
+2014-12-30 17:43:37 INFO  PropertyManager:43 - key: devEnv value: false
+2014-12-30 17:43:37 INFO  PropertyManager:43 - key: stgEnv value: true
+2014-12-30 17:43:37 INFO  WebDriverManager:71 - 
+
+************************
+ Stagging Env Selected
+
+************************
+
+2014-12-30 17:43:37 INFO  PropertyManager:43 - key: stgEnvURI value: https://www.prosper.com
+2014-12-30 17:43:39 INFO  TestHomePage:49 - Test Case Name - Inside homepageLoanTypesLinkDisplayed Test Case 
+2014-12-30 17:43:39 INFO  SetUpWebDriver:36 - info - End test test case method homepageLoanTypesLinkDisplayed
+2014-12-30 17:43:39 INFO  SetUpWebDriver:29 - info - Starting new test case homepageQuickInvestLinkDisplayed
+2014-12-30 17:43:39 INFO  PropertyManager:43 - key: browser value: firefox
+2014-12-30 17:43:40 INFO  PropertyManager:43 - key: devEnv value: false
+2014-12-30 17:43:40 INFO  PropertyManager:43 - key: stgEnv value: true
+2014-12-30 17:43:40 INFO  WebDriverManager:71 - 
+
+************************
+ Stagging Env Selected
+
+************************
+
+2014-12-30 17:43:40 INFO  PropertyManager:43 - key: stgEnvURI value: https://www.prosper.com
+2014-12-30 17:43:43 INFO  TestHomePage:60 - Test Case Name - Inside homepageQuickInvestLinkDisplayed Test Case 
+2014-12-30 17:43:43 INFO  SetUpWebDriver:36 - info - End test test case method homepageQuickInvestLinkDisplayed
+2014-12-30 17:43:43 INFO  SetUpWebDriver:29 - info - Starting new test case homePageDisplayed
+2014-12-30 17:43:43 INFO  PropertyManager:43 - key: browser value: firefox
+2014-12-30 17:43:45 INFO  PropertyManager:43 - key: devEnv value: false
+2014-12-30 17:43:45 INFO  PropertyManager:43 - key: stgEnv value: true
+2014-12-30 17:43:45 INFO  WebDriverManager:71 - 
+
+************************
+ Stagging Env Selected
+
+************************
+
+2014-12-30 17:43:45 INFO  PropertyManager:43 - key: stgEnvURI value: https://www.prosper.com
+2014-12-30 17:43:47 INFO  TestHomePage:26 - Test Case Name - Inside homePageDisplaed Test Case 
+2014-12-30 17:43:47 INFO  HomePage:43 - Inside Click on Login Link: homePgaeLogoImg	[[FirefoxDriver: firefox on MAC (99cf3c83-c9cf-334a-8231-0bc6862916d2)] -> xpath: .//*[@id='M_c5_c4_hlSignIn']]
+2014-12-30 17:43:47 INFO  HelperAPI:57 - Verify and Click XPath: [[FirefoxDriver: firefox on MAC (99cf3c83-c9cf-334a-8231-0bc6862916d2)] -> xpath: .//*[@id='M_c5_c4_hlSignIn']]
+2014-12-30 17:43:48 INFO  HelperAPI:57 - Verify and Click XPath: [[FirefoxDriver: firefox on MAC (99cf3c83-c9cf-334a-8231-0bc6862916d2)] -> xpath: .//*[@id='M_ctl00_MainContent_MainContent_c7_btn_continue']]
+2014-12-30 17:43:50 INFO  LoginPage:49 - Image Text
+2014-12-30 17:43:50 INFO  HelperAPI:57 - Verify and Click XPath: [[FirefoxDriver: firefox on MAC (99cf3c83-c9cf-334a-8231-0bc6862916d2)] -> xpath: .//*[@id='M_ctl00_MainContent_MainContent_c7_btn_signin']]
+2014-12-30 17:43:51 INFO  LoginPage:52 - Dashboard Page Title: Prosper
+2014-12-30 17:43:51 INFO  SetUpWebDriver:36 - info - End test test case method homePageDisplayed
+2014-12-30 17:43:51 INFO  PropertyManager:43 - key: screenshot_directory value: //Users//adhanoa//eclipseWorkspace//Prosper_Test_Harness//Screenshot

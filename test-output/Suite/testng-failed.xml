@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.prosper.webtest.home.TestHomePage">
+        <methods>
+          <include name="runBeforeEachMethod"/>
+          <include name="runAfterEachMethod"/>
+          <include name="takeScreenShotOnFailure"/>
+          <include name="homePageDisplayed" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.prosper.webtest.home.TestHomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<project name="sqa" basedir="." default="generateJunitHtmlReport">
+	
+	
+	<target name="generateJunitHtmlReport">
+		
+		<junitreport>
+			<fileset dir="./target/surefire-reports/junitreports">
+				<include name="TEST-*.xml" />
+			</fileset>
+			<report format="frames" todir="./target/surefire-reports/html" />
+		</junitreport>
+
+	</target>
+	
+	<target name="movefile" depends="generateJunitHtmlReport">
+		<copy>
+			<filterset> </filterset>
+		</copy>
+
+	</target>
+	
+	
+</project>

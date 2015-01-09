@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- -->
+<suite name="FunctionalTestCases" parallel="methods" thread-count="10">
+	<test name="module1testcases">
+		<!--  <groups>
+			<run>
+				<exclude name="regressionTestCasesGroup"></exclude>
+
+			</run>
+
+		</groups>-->
+		<packages>
+			<package name="com.prosper.webtest.home.*"></package>
+		</packages>
+
+
+	</test>
+</suite>
